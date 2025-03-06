@@ -1,1 +1,1 @@
-# angular-blog
+# blog
